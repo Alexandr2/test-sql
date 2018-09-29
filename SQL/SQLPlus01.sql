@@ -19,6 +19,10 @@ SQL> WITH t AS (SELECT '5346743912984639454262436' a FROM DUAL) SELECT 9 * (LENG
                                                                              119
 
 SQL>
+<<<<<<< HEAD
 ;
 select * from DEPARTMENT;
 
+=======
+git
+>>>>>>> 3daa47929b17caaa27b2dc4e5bc4528752a0b715
